@@ -1,0 +1,20 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://boltmerz@github.com/Boltmerz/greeter.git"
+  },
+  "keywords": [],
+  "author": "David Boltmerz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boltmerz/greeter/issues"
+  },
+  "homepage": "https://github.com/Boltmerz/greeter#readme"
+}
